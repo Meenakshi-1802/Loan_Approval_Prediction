@@ -41,8 +41,8 @@ Correlation heatmap
 Algorithm Used: Logistic Regression
 Accuracy: ~78.8%
 Model File: loan_approval_model.pkl
+
 🚀 Installation & Usage
-git clone https://github.com/your-username/loan-approval-prediction.git
 
 cd loan-approval-prediction
 
