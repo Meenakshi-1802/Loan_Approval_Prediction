@@ -1,16 +1,16 @@
-#🏦 Loan Approval Prediction 
+# 🏦 Loan Approval Prediction 
 This project predicts whether a loan will be approved or not based on applicant details using Machine Learning.
 
-##📌 Overview
+## 📌 Overview
 This is a classification project using Logistic Regression to predict loan approval status.
 The model is trained on historical loan applicant data provided in a CSV file.
 
-##📁 Dataset
+## 📁 Dataset
 File: loan_prediction.csv
 Rows: 614
 Features include: Gender, Marital Status, Income, Education, Credit History, Property Area, etc.
 
-##⚙️ Technologies Used
+## ⚙️ Technologies Used
 Tool/Library	Purpose
 Python	Programming language
 Pandas	Data manipulation & analysis
@@ -20,7 +20,7 @@ Joblib	Saving the model
 Seaborn & Matplotlib	Data visualization
 VS Code	Code editor
 
-##📊 Exploratory Data Analysis (EDA)
+## 📊 Exploratory Data Analysis (EDA)
 Key graphs include:
 
 Loan approval status
@@ -39,12 +39,12 @@ Correlation heatmap
 <img width="1919" height="1018" alt="Correaltion  Heatmap" src="https://github.com/user-attachments/assets/1edc12d8-b82a-4159-adef-811b8d6b0ff4" />
 
 
-##🧠 Model Details
+## 🧠 Model Details
 Algorithm Used: Logistic Regression
 Accuracy: ~78.8%
 Model File: loan_approval_model.pkl
 
-##🚀 Installation & Usage
+## 🚀 Installation & Usage
 
 cd loan-approval-prediction
 
